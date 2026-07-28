@@ -1,0 +1,16 @@
+googleapis-common-protos==1.75.0
+grpcio==1.83.0
+grpcio-status==1.83.0
+numpy==2.2.6
+pandas==2.3.3
+protobuf==7.35.1
+py4j==0.10.9.9
+pyarrow==25.0.0
+pyspark==4.2.0
+python-dateutil==2.9.0.post0
+pytz==2026.3.post1
+PyYAML==6.0.3
+six==1.17.0
+typing_extensions==4.16.0
+tzdata==2026.3
+zstandard==0.25.0
